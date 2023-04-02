@@ -1,0 +1,28 @@
+*{
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+body {
+color: white; 
+}
+
+h1 {
+    font-size: 40px; 
+    color: rgb(196, 186, 58); 
+    text-align:center;
+}
+
+h2 {
+    text-align: center;
+}
+h3 {
+    color: green;
+}
+h4 {
+    text-align: center;
+}
+
+p {
+    font-size: small;
+    text-align: center;
+}
