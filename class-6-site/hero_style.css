@@ -1,0 +1,77 @@
+body {
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 20px;
+    margin: 0;
+    line-height: 30px;
+}
+
+header {
+    background-color: rgba(241, 223, 140, 0.973);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+header img {
+    max-width: 80%;
+    border-radius: 100px;
+    border: 20px solid #fff;
+}
+
+main {
+    background-color:white;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main img {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.box1 {
+    width: 280px;
+    height: 200px;
+    float: left;
+    background-color: bisque;
+    margin: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2, h3 {
+    font-size: 45px;
+    color:rgb(119, 97, 26);
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    text-align: center;
+    font-size: 27px;
+}
+
+a {
+    color: rgb(119, 97, 26);
+}
+
+a:hover {
+    color:#ffea2a;
+}
+
+footer {
+    background-color: rgba(241, 223, 140, 0.973);
+    text-align: center;
+    padding: 35px;
+}
+
+main p {
+    font-size: 26px;
+    text-align: center;
+}
